@@ -1,7 +1,6 @@
-# Gender and Ethnicity Classification and Generation using Deep Learning in Heterogeneous
-# Face Recognition
+## Gender and Ethnicity Classification and Generation using Deep Learning in Heterogeneous Face Recognition
 
-## Abstract
+### Abstract
 
 - Soft biometric traits are physical, behavioral and human characteristics such as gender,
 ethnicity, height, weight and skin color. Some soft biometric traits such as height, weight and
